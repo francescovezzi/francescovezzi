@@ -6,7 +6,7 @@ I'm Francesco :) I love working at the intersection of Robotics and AI, passiona
 
 ### 🔧 About Me  
 - 🎓 M.Sc. in Robotics Engineering at University of Pisa.
-- 🤖 Master's thesis prject on [Deep Reinforcement Learning for quadruped dynamic locomotion]([url](https://github.com/francescovezzi/quadruped-springs))
+- 🤖 Master's thesis prject on [Deep Reinforcement Learning for quadruped dynamic locomotion](https://github.com/francescovezzi/quadruped-springs)
 - 💡 Experienced in **State Estimation, Control and Deep Reinforcement Learning (DRL)** for robotics applications  
 - 🛠️ Skilled in **C++, Python, ROS, PyTorch, and simulation tools (Gazebo, PyBullet)**  
 - 🤝 Open to collaborations on **robotics research, simulation environments, and RL applications**  
